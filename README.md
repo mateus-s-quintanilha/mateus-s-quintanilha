@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus.quintanilha/)
 
 
-🌍 I'm based in Rio de Janeiro, Brazil
+🌍 Front end web developer based in Rio de Janeiro, Brazil
 
 ✉️ You can contact me at mateusquintanilha.silva@gmail.com
 
