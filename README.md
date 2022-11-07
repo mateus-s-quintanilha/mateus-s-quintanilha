@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Mateus Quintanilha 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-quintanilha/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus.quintanilha/)
+
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-s-quintanilha&show_icons=true&theme=radical)
+
 
 <!--
 **mateus-s-quintanilha/mateus-s-quintanilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
