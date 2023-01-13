@@ -8,7 +8,7 @@
 
 ✉️ You can contact me at mateusquintanilha.silva@gmail.com
 
-🧠 I'm learning something new every day.
+🧠 I'm learning something new every day
 
 
 [![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-s-quintanilha&theme=radical)](https://github.com/mateus-s-quintanilha/github-readme-stats)
