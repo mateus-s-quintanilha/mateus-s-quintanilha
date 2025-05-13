@@ -1,8 +1,5 @@
 ## Hi there, I am Mateus Quintanilha 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-quintanilha/)
-
-
 🌍 Software developer based in Lisbon, Portugal
 
 
